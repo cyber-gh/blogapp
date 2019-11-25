@@ -1,0 +1,3 @@
+ld:
+  script:
+    - echo "Hello World"
