@@ -1,0 +1,1 @@
+web: java -jar build/libs/deploy-app-0.0.1.jar
