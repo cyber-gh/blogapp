@@ -41,7 +41,7 @@ fun Application.module(testing: Boolean = false) {
 
     routing {
         get("/") {
-            call.respondText("Hey there!", contentType = ContentType.Text.Plain)
+            call.respondText("Hey there updated!", contentType = ContentType.Text.Plain)
         }
 
         get("/html-dsl") {
